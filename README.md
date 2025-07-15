@@ -40,9 +40,9 @@ I’ve also worked on **artificial intelligence projects** and have a keen inter
 *(RESTful API development)*
 
 ## 📊 GitHub Stats  
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=transparent&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=transparent&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=transparent&hide_border=true)
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sfonseca207&show_icons=true&theme=transparent&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sfonseca207&theme=transparent&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Sfonseca207=USERNAME&layout=compact&theme=transparent&hide_border=true)
 
 ## 💼 Soft Skills  
 - 🤝 **Teamwork & Collaboration:** Effective working in team environments, with strong communication and cooperation.  
