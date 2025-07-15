@@ -39,8 +39,7 @@ I’ve also worked on **artificial intelligence projects** and have a keen inter
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 *(RESTful API development)*
-
-## 📊 GitHub Stats  
+  
 ## 📊 GitHub Stats  
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sfonseca207&show_icons=true&theme=transparent&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sfonseca207&theme=transparent&hide_border=true)  
