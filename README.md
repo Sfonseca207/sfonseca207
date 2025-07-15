@@ -1,4 +1,4 @@
-# Samuel Fonseca Henriquez
+# Samuel Elias Fonseca Henriquez
 
 **Full Stack Developer | Bilingual (English & Spanish) | Tech Enthusiast**  
 
