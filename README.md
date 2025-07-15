@@ -25,7 +25,8 @@ I’ve also worked on **artificial intelligence projects** and have a keen inter
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 **Databases:**  
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -39,6 +40,7 @@ I’ve also worked on **artificial intelligence projects** and have a keen inter
 
 *(RESTful API development)*
 
+## 📊 GitHub Stats  
 ## 📊 GitHub Stats  
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sfonseca207&show_icons=true&theme=transparent&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sfonseca207&theme=transparent&hide_border=true)  
