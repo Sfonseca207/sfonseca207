@@ -42,7 +42,7 @@ I’ve also worked on **artificial intelligence projects** and have a keen inter
 ## 📊 GitHub Stats  
 ![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sfonseca207&show_icons=true&theme=transparent&hide_border=true)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sfonseca207&theme=transparent&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Sfonseca207=USERNAME&layout=compact&theme=transparent&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sfonseca207&layout=compact&theme=transparent&hide_border=true)
 
 ## 💼 Soft Skills  
 - 🤝 **Teamwork & Collaboration:** Effective working in team environments, with strong communication and cooperation.  
