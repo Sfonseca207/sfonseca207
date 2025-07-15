@@ -38,10 +38,10 @@ I’ve also worked on **artificial intelligence projects** and have a keen inter
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-*(RESTful API development)*
+*(RESTFUL API development)*
   
 ## 📊 GitHub Stats  
-![GitHub stats](https://github-readme-stats-**sigma-five**.vercel.app/api?username=Sfonseca207&show_icons=true&theme=transparent&hide_border=true) 
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sfonseca207&theme=transparent&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sfonseca207&layout=compact&theme=transparent&hide_border=true)
 
